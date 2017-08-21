@@ -2,7 +2,7 @@ Light-weight javascript module loader, work together with [http-vue-loader](http
 
 No node.js environment, no build step, just serve and open in browser.
 
-Simple demo uses：
+[Simple demo](https://vmlinux.github.io/http-loader/demo) uses：
 - vue
 - vuex
 - vue-router
